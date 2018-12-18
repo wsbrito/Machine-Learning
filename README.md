@@ -1,3 +1,3 @@
-# Machine-Learning
+# 1ª Maratona Data Science Brasil 2018
 
-This repository contain my personal projects envolving Machine Learning.
+Nesse repositório estão todos os arquivos que manipulei durante a minha participação na Primeira Maratona Data Science Brasil que ocorreu entre os dias 10/12/2018 até 18/02/2019.
